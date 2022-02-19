@@ -1,0 +1,16 @@
+{
+  "name": "team.bot",
+  "version": "1.0.0",
+  "description": "team.bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^13.6.0"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
